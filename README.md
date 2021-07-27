@@ -15,7 +15,7 @@
 
 ![Deployed Page Screenshot](./assets/Veggie-Takes.png)
 
-[Deployed GitPage](https://stephenwong-git.github.io/Vegitate/)
+[Deployed GitPage](https://michaeladamgroberman.github.io/Veggie-Take/)
 
 ## VeggieTake(t)s Comments
 * We decided on the Bulma CSS framework, which is responsive and mobile first. 
